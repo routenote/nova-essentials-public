@@ -1,6 +1,6 @@
 <?php
 
-namespace Kingsley\NovaEssentials;
+namespace Routenote\NovaEssentials;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Fields\Code;

@@ -1,5 +1,5 @@
 {
-    "name": "jameslkingsley/nova-essentials",
+    "name": "routenote/nova-essentials-public",
     "description": "A Laravel Nova package that adds some essential macros.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Kingsley\\NovaEssentials\\": "src/"
+            "Routenote\\NovaEssentials\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Kingsley\\NovaEssentials\\NovaEssentialsServiceProvider"
+                "Routenote\\NovaEssentials\\NovaEssentialsServiceProvider"
             ]
         }
     },
